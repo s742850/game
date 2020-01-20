@@ -1,6 +1,8 @@
-import javax.sound.midi.MidiUnavailableException;
 import java.util.Random;
 
+/**
+ * 測試玩家去賭場玩公平的遊戲，最多可以贏多少
+ */
 public class game {
     public static void main(String[] args) {
         long 總流水 = 0;
